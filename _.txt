@@ -1,0 +1,10 @@
+THE C PROGRAMMING LANGUAGE
+
+
+
+
+- C is a general purpose, mid-level programming language. Low = fast and efficient. High = abstract human readable code
+- Great first language for understanding fundamental computer science theories. What the computer is doing.
+- Learning HOW to program
+- The father of modern programming languages I.E. Python, Java, Javascript, C++, C#, etc
+- GOAL: BECOME THE BEST SOFTWARE ENGINEER
